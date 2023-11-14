@@ -53,7 +53,7 @@ int main()
 
     //
     cout << "Palindrome" << endl;
-    string pal = "katak";
+    string pal = "kakak";
     palindrome(pal);
 
     return 0;
